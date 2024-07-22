@@ -1,6 +1,16 @@
 
 ![Logo](https://github.com/datalbert/datalbert/blob/main/header.png)
 
+
+##  About Me
+
+- 🎓 Telecommunications Engineering student
+- 💻 Passionate about software development
+- 🚀 Currently building a full stack application with:
+  -  ⚙️ Java microservices (backend)
+  - 🌐 Angular (frontend)
+- 📚 Always eager to learn and collaborate on exciting projects
+
 ## Contact with me
 
 <p align="center">
