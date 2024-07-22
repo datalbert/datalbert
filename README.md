@@ -4,8 +4,8 @@
 ## Contact with me
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
+  <a href="mailto:albertoaf0520@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
