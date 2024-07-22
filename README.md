@@ -7,6 +7,9 @@
   <a href="mailto:albertoaf0520@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+   <a href="https://www.linkedin.com/in/albertoavilafdez/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ## Github Profile Stats
