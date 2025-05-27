@@ -6,9 +6,6 @@
 
 - 🎓 Telecommunications Engineering student
 - 💻 Passionate about software development
-- 🚀 Currently building a full stack application with:
-  -  ⚙️ Java microservices (backend)
-  - 🌐 Angular (frontend)
 - 📚 Always eager to learn and collaborate on exciting projects
 
 ## Contact with me
